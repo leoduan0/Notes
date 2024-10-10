@@ -26,3 +26,25 @@ Separation is **not** the voluntary version of marginalization (ability).
 This occurs when parents have a different acculturation strategy from their children.
 
 **Reverse culture shock** refers to the feeling of surprise, disorientation, confusion, alienation, or frustration experienced when people return to their home culture after living in another culture, and finding that they do not fit in as they used to.
+
+## Cultural Dimensions
+
+**Culture** is a dynamic system of rules, explicit and implicit, established by groups in order to ensure their survival, involving attitudes, values, beliefs, norms, and behaviors (Matsumoto, 2001).
+
+Hofstede (1980) carried out a content-analysis of questionnaires asking people from several different counties how they perceived their work environment. He coined the term **cultural dimensions**, are the values within a culture than influence behavior and cognition.
+
+**Individualist** cultures value achievement, uniqueness, and independence.
+
+**Collectivistic** cultures cultures value social harmony, tradition, and interdependence.
+
+**Power distance** How individuals relate to power and authority.
+
+**Motivation Towards Achievement or Success** Whether a society is driven by competition, achievement, and success, or caring for others and quality of life.
+
+**Uncertainty Avoidance** refers to whether an individual see unknown situations as threatening or challenging.
+
+**Motive** is conveying emotions.
+
+**Long-term orientation** refers to a culture's level of focus on the future or the present and the past. **Short-term orientation** refers to a culture's level of focus on the present (short-term gratification).
+
+**Ecological fallacy** refers to the belief that everyone falls under a trend and align to that culture's dimension (when not _everyone_ does).
