@@ -14,7 +14,7 @@ Roots back to Plato. Looks at art as mimesis (imitation or mimicry). Art should 
 
 This is the main view about art up until the 1700s. **Art is not about the art itself but the objective universe and the artists' skill in imitating it**.
 
-A superior piece of art captures the essence of truth. *e.g.* a painting of a tree should look like a tree.
+A superior piece of art captures the essence of truth. _e.g._ a painting of a tree should look like a tree.
 
 However, imitating reality is a challenge. For example, whose perspective is "reality"?
 
@@ -36,18 +36,18 @@ This view of art was dominant during the 19th century and into the 20th century.
 
 The skill of the artist is measured by the artist's ability to evoke experiences in the audience.
 
-John Dewey said in *Art as Experience* that without an audience, there could be no art.
+John Dewey said in _Art as Experience_ that without an audience, there could be no art.
 
 Some problems:
 
-- The intent of the artist may not be felt by the audience. However, has the artist succeeded or failed in this situation? *e.g.* Many read the same novel but have greatly different experiences. They may not even agree on what the novel was really about.
+- The intent of the artist may not be felt by the audience. However, has the artist succeeded or failed in this situation? _e.g._ Many read the same novel but have greatly different experiences. They may not even agree on what the novel was really about.
 - Some say that the intention of the artist is irrelevant to their art and that all that matters is what the audience feels. Following this definition, then basically anything that causes an emotional reaction could be considered art.
 
 ## Formalism
 
 This traces back to the 18th century Immanuel Kant.
 
-It is the intention of the artist to create a work of art that makes something art. *i.e.* art cannot be accidental.
+It is the intention of the artist to create a work of art that makes something art. _i.e._ art cannot be accidental.
 
 The focus is not on how well the work of art represents reality or moves the audience but about how well the work of art conforms to the goals and ideals of its form of art.
 
@@ -67,7 +67,7 @@ Problems:
 
 ## Recent Definitions of Art
 
-### Institutional: The Art World
+### Institutional
 
 This emphasizes the notion of the art world as the source that decides what makes something art (the institution). The art world concept is defined as:
 
@@ -77,9 +77,9 @@ This emphasizes the notion of the art world as the source that decides what make
 - The art world is the totality of all art world systems.
 - An art world system is a framework for the presentation of a work of art by an artist to an art world public.
 
-While this definition has the merit of simplicity, the art world will sort out what is and isn't art, it also has the problem of defining the art world. *e.g.* How much understanding is required to become part of the art world? Can anyone appreciate art or does it require several university degrees?
+While this definition has the merit of simplicity, the art world will sort out what is and isn't art, it also has the problem of defining the art world. _e.g._ How much understanding is required to become part of the art world? Can anyone appreciate art or does it require several university degrees?
 
-1. Some advocates of this view use a broad definition: Anyone who wants to appreciate art and who makes the effort can be part of the art world. *e.g.* Anyone can be part of art.
+1. Some advocates of this view use a broad definition: Anyone who wants to appreciate art and who makes the effort can be part of the art world. _e.g._ Anyone can be part of art.
 2. Others narrow it down, requiring a level of education and commitment to art appreciation beyond the ability of all but a few.
 
 ### Historicist/Traditionalist
@@ -92,7 +92,7 @@ Similar criticisms of the institutional view of art applies here too, particular
 
 There are difficulties with art that is from outside the Western art history tradition.
 
-## Functions of art
+#### Functions of art
 
 - Art imitates the world
 - Art as the expression of emotion
