@@ -56,3 +56,38 @@ Limitations:
 - Deliberate attempts to decrease serotonin in non-depressed patients to induce depressive symptoms have not always worked.
 - Not all people with depression are successfully treated by SSRIs.
 - Not all symptoms of depression can be explained by low serotonin levels (_e.g._ poor decision making, memory distortions)
+
+## Beck's Cognitive Theory
+
+### The Cognitive Triad
+
+Beck argues that depression is rooted in a patient's "automatic thoughts" - that is, personalized thoughts that are triggered by particular stimuli that leads to emotional responses. The cognitive triad is three types of automatic thoughts.
+
+- Negative views of the world
+- Negative views of one self
+- Negative view of the future
+
+#### Negative schema
+
+Beck argues that negative schema can develop because of family problems, social rejection by peers, poor school experiences, or by having depressed members of the family or close social circle.
+
+- Ineptness schema
+- Self-blame schema
+- Negative self-evaluation schema
+
+#### Errors in Logic
+
+- Selective abstraction: drawing conclusions about one self from a single incident.
+- Magnification: slippery slope.
+- Minimization: can't take compliments (thinks that all praise is flattery\_.
+- Overgeneralization
+- Personalization
+- Arbitrary inferences: Make conclusions without conclusive evidence (while focusing on the most negative evidence).
+
+## Nolen-Hoeksema's Theory of Depression
+
+Studied the connection between rumination and depression.
+
+Rumination is focusing attention on distressing symptoms or thoughts.
+
+Men were more likely to distract themselves when they feel depressed. Women were more likely to ruminate.
