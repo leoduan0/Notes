@@ -79,7 +79,7 @@ Beck argues that negative schema can develop because of family problems, social 
 
 - Selective abstraction: drawing conclusions about one self from a single incident.
 - Magnification: slippery slope.
-- Minimization: can't take compliments (thinks that all praise is flattery\_.
+- Minimization: can't take compliments (thinks that all praise is flattery).
 - Overgeneralization
 - Personalization
 - Arbitrary inferences: Make conclusions without conclusive evidence (while focusing on the most negative evidence).
