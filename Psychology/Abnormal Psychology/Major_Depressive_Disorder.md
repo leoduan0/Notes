@@ -91,3 +91,25 @@ Studied the connection between rumination and depression.
 Rumination is focusing attention on distressing symptoms or thoughts.
 
 Men were more likely to distract themselves when they feel depressed. Women were more likely to ruminate.
+
+## Sociocultural Theories
+
+Factors:
+
+- Stressors in the environment - fighting at home
+- Resources available for coping with stressors - access to counselling
+- Cultural explanations for disorders and attitudes towards those that have them 0 somatic vs affective symptoms
+
+Diathesis-stress Model of Depression
+
+- Stress may act as a trigger to activate a biological predisposition to depression, especially when individuals lack resources to cope with the stress.
+
+| Risk factors                                     | Protective Factors              |
+| ------------------------------------------------ | ------------------------------- |
+| - Stressful home environment (fighting, neglect) | - Stable income                 |
+| - Unstable/uncertain income                      | - Healthy relationships         |
+| - High stress job                                | - Living in a safe neighborhood |
+| - Political instability                          | - Education                     |
+| - Other mental health disorders (substance use)  | -Access to counselling          |
+| - Isolation/loneliness                           | - Access to medical care        |
+| - Having young children                          | - Nutritious food               |
