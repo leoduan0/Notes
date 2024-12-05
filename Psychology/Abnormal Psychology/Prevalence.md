@@ -63,3 +63,25 @@ A survey by the UK Mental Health Foundation says that men are less likely to see
 Cultural differences may also affect prevalence rates.
 
 Globalization: Becker et al.
+
+Factors:
+
+- Different groups have different **risk factors** and different **protective factors**.
+- Biases may cause a group to be over-diagnosed or under-diagnosed.
+- **Globalization** leads to changes in attitudes towards certain disorders.
+- Media can lead to **self-diagnosis** or the **adoption of symptoms**.
+- Symptoms of disorders may vary between different cultures.
+- Changes in environmental factors _e.g._ social media, amount of sleep, drugs, alcohol.
+- Changes in social norms may make more people to seek out help (Twenge (2015)).
+- International marketing of pharmaceuticals.
+
+Gender:
+
+- Amenson and Lewinsohn
+- Nolen-Hoeksema
+- Brown and Harris
+
+Culture:
+
+- Becker et al.
+- Bolton
