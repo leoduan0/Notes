@@ -119,7 +119,7 @@ $$ n=\frac{c}{v} $$
 
 The aspects of refractions are related using **Snell's law**:
 
-$$ \frac{n_1}{n_2}=\frac{\sin(\theta_1)}{\sin(\theta_2)} $$
+$$ \frac{n_1}{n_2}=\frac{\sin(\theta_2)}{\sin(\theta_1)} $$
 
 where:
 
@@ -139,3 +139,48 @@ $$ \frac{v_2}{v_1}=\frac{\lambda_2 f}{\lambda_1 f}=\frac{lambda_2}{lambda_1} $$
 Thus:
 
 $$ \frac{n_1}{n_2}=\frac{\sin(\theta_2)}{\sin(\theta_1)}=\frac{\frac{c}{v_1}}{\frac{c}{v_2}}=\frac{v_2}{v_1}=\frac{lambda_2}{lambda_1} $$
+
+## Critical Angle
+
+The **critical angle** refers to:
+
+- the smallest angle from the normal such that an incident light ray can take while exhibiting total internal reflection
+- the largest angle from the normal such that (a part of) an incident light ray can be refracted.
+
+## Standing Waves
+
+A **standing wave** is a wave that appears to be stationary in position but oscillate in time.
+
+A standing wave has no net transfer of energy.
+
+**Nodes** are points that do not oscillate in space (and appear to be stationary).
+
+**Antinodes** are points of a wave that oscillate with the amplitude (have the maximum magnitude oscillation).
+
+Given a standing wave, any adjacent pair of nodes or antinodes are **in antiphase** with each other, meaning that the phase difference between them is $\pi$ radians. A pair of nodes or antinodes that are separated by one node or an antinode (respectively) are **in phase** with each other, meaning that the phase difference between them is $0$.
+
+### Standing Waves in Pipes
+
+A pipe can either have two open ends, two closed ends, or one open end and one closed end.
+
+An example of a pipe that has two open ends is the flute.
+
+Two closed ends or two open ends:
+
+$$ \lambda_n=\frac{2L}{n} $$
+
+$n$ can be any natural number.
+
+Note that the above equation can be used for waves on a string that has either fixed or open boundaries too.
+
+One open end and one closed end:
+
+$$ \lambda_n=\frac{4L}{n} $$
+
+$$n$$ can only be an odd, natural number.
+
+## Miscellaneous
+
+A light wave undergoes $pi$ radians phase change when reflected from a material with a higher refractive index.
+
+A wave on a string undergoes $pi$ radians phase change and inverts (vertically) when reflected across a boundary.
