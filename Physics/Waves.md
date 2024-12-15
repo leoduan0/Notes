@@ -179,8 +179,14 @@ $$ \lambda_n=\frac{4L}{n} $$
 
 $$n$$ can only be an odd, natural number.
 
+## Doppler Effect
+
+The **Doppler Effect** describes the apparent change in frequency of a wave depending on the movement of the source of the wave and an observer.
+
 ## Miscellaneous
 
 A light wave undergoes $pi$ radians phase change when reflected from a material with a higher refractive index.
 
 A wave on a string undergoes $pi$ radians phase change and inverts (vertically) when reflected across a boundary.
+
+For a wave, its intensity is proportional to its amplitude squared. _i.e._ $$ I \propto A^2 $$.
