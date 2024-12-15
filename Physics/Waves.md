@@ -54,11 +54,30 @@ A **light slit experiment** involves a single light source shined at some number
 
 Light passing through a single slit will exhibit only diffraction but not interference. The diffraction will happen along the edges of the slit and there will be no wave sources to interfere with.
 
+![Single-slit interference pattern](./media/single_slit.png)
+
+[Diffraction pattern of a single slit](<https://commons.wikimedia.org/wiki/File:Single_Slit_Diffraction_(english).svg>) by [DL6ER](https://commons.wikimedia.org/w/index.php?title=User:DL6ER&action=edit&redlink=1) is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0)
+Some aspects of a single-slit experiment can be described with the following equation:
+
+$$ \theta=\frac{\lambda}{b} $$
+
+where:
+
+- $\theta$: the angle between the central maximum and the first dark fringe
+- $\lambda$: the wavelength
+- $b$: the width of the slit
+
 ### Double-Slit
 
 Thomas Young conducted the **double-slit experiment**.
 
 The double-slit experiment was famous because it demonstrated for the first time that light could exhibit properties of waves. Most notably, Young was able to demonstrate that light could interfere with each other.
+
+Here is the provided HTML converted to Markdown:
+
+![Double-slit interference pattern](./media/double_slit.jpg)
+
+[2-slit diffraction of red laser light](https://commons.wikimedia.org/wiki/File:Laserdiffraction.jpg) by [Benjamin Crowell](https://en.wikipedia.org/wiki/User:Bcrowell), Modifications: is licensed under [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0)
 
 $$ s=\frac{\lambda D}{d} $$
 
@@ -70,3 +89,55 @@ where:
 - $d$: the distance between the two slits
 
 ### Diffraction Grating
+
+A **diffraction grating** contains many slits.
+
+Note that, in a diffraction grating, the slits are evenly-spaced apart.
+
+$$ n\lambda=d\sin(\theta) $$
+
+where:
+
+- $n$: the $n$-th maxima (bright fringe)
+- $\lambda$: the wavelength
+- $d$: the distance between the slits
+- $\theta$: the angle between the $n$-th maxima and the central maximum
+
+![Double-slit and quintuple-slit interference pattern](./media/double_slit_and_quintuple_slit.jpg)
+
+["This work"](https://commons.wikimedia.org/wiki/File:Diffraction2vs5.jpg) is licensed under [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0)
+
+## Refraction
+
+When a light hits a medium, its trajectory may change. In other words, say a light travels from air into water, the light will not continue travelling in a straight line but bend. This process of bending is called **refraction**.
+
+This can be easily observed in everyday life. An object deep underneath water is not where it appears to be to someone looking down at it. This is due to refraction.
+
+Aspects of refraction is dependent on the **refractive index** of a material, which is the ratio between the apparent speed of light in vacuum to the apparent speed of light in that specific material. _i.e._:
+
+$$ n=\frac{c}{v} $$
+
+### Snell's Law
+
+The aspects of refractions are related using **Snell's law**:
+
+$$ \frac{n_1}{n_2}=\frac{\sin(\theta_1)}{\sin(\theta_2)} $$
+
+where:
+
+- $n_1$: the refractive index of the material 1
+- $n_2$: the refractive index of the material 2
+- $\theta_1$: the angle which the light travels in material 1 relative to the normal
+- $\theta_2$: the angle which the light travels in material 2 relative to the normal
+
+By extension, since the refractive index of a material is related to the apparent speed of light in that material, we can derive that:
+
+$$ \frac{n_1}{n_2}=\frac{\frac{c}{v_1}}{\frac{c}{v_2}}=\frac{v_2}{v_1} $$
+
+Similarly, because the apparent velocity is related to wavelength (and that the frequency of a light wave does not change), we can derive that:
+
+$$ \frac{v_2}{v_1}=\frac{\lambda_2 f}{\lambda_1 f}=\frac{lambda_2}{lambda_1} $$
+
+Thus:
+
+$$ \frac{n_1}{n_2}=\frac{\sin(\theta_2)}{\sin(\theta_1)}=\frac{\frac{c}{v_1}}{\frac{c}{v_2}}=\frac{v_2}{v_1}=\frac{lambda_2}{lambda_1} $$
