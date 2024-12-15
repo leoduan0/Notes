@@ -73,8 +73,6 @@ Thomas Young conducted the **double-slit experiment**.
 
 The double-slit experiment was famous because it demonstrated for the first time that light could exhibit properties of waves. Most notably, Young was able to demonstrate that light could interfere with each other.
 
-Here is the provided HTML converted to Markdown:
-
 ![Double-slit interference pattern](./media/double_slit.jpg)
 
 [2-slit diffraction of red laser light](https://commons.wikimedia.org/wiki/File:Laserdiffraction.jpg) by [Benjamin Crowell](https://en.wikipedia.org/wiki/User:Bcrowell), Modifications: is licensed under [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0)
