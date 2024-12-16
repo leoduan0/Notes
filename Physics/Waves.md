@@ -99,7 +99,7 @@ where:
 
 Since $\tan(\theta) \approx \sin(\theta)$, we derive that:
 
-$$ \frac{y}{D} = \frac{n \lambda}{d}
+$$ \frac{y}{D} = \frac{n \lambda}{d} $$
 
 ### Diffraction Grating
 
