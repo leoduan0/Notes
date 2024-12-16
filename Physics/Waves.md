@@ -88,8 +88,7 @@ where:
 
 Also, the distance between a bright fringe and the central maximum is given by:
 
-$$
-\tan(\theta)=\frac{y}{D}
+$$ \tan(\theta)=\frac{y}{D} $$
 
 where:
 
