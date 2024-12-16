@@ -86,6 +86,21 @@ where:
 - $D$: the distance between the slits and the screen
 - $d$: the distance between the two slits
 
+Also, the distance between a bright fringe and the central maximum is given by:
+
+$$
+\tan(\theta)=\frac{y}{D}
+
+where:
+
+- $\theta$: the angle between the fringe and the central maximum
+- $y$: the distance between the fringe and the central maximum
+- $D$: the distance between the slits and the screen
+
+Since $\tan(\theta) \approx \sin(\theta)$, we derive that:
+
+$$ \frac{y}{D} = \frac{n \lambda}{d}
+
 ### Diffraction Grating
 
 A **diffraction grating** contains many slits.
@@ -190,3 +205,4 @@ A light wave undergoes $pi$ radians phase change when reflected from a material 
 A wave on a string undergoes $pi$ radians phase change and inverts (vertically) when reflected across a boundary.
 
 For a wave, its intensity is proportional to its amplitude squared. _i.e._ $$ I \propto A^2 $$.
+$$
