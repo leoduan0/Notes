@@ -110,6 +110,54 @@ Diathesis-stress Model of Depression
 | - Unstable/uncertain income                      | - Healthy relationships         |
 | - High stress job                                | - Living in a safe neighborhood |
 | - Political instability                          | - Education                     |
-| - Other mental health disorders (substance use)  | -Access to counselling          |
+| - Other mental health disorders (substance use)  | - Access to counselling         |
 | - Isolation/loneliness                           | - Access to medical care        |
 | - Having young children                          | - Nutritious food               |
+
+## Anti-depressants
+
+### Tricyclics
+
+**Tricyclics** are the first ever anti-depressants to be prescribed.
+
+#### Mechanism
+
+They interfere with the reuptake of norepinephrine and serotonin and it leads to increased levels of neurotransmitters in the synapse.
+
+#### Side Effects
+
+It had a delayed effect but 50%-70% of patients show improvement within two to three weeks of the beginning of treatment.
+
+There are many side effects, including dry mouth, cardiovascular problems, weight gain, constipation, blurred vision, sexual dysfunction, and disorientation.
+
+Risk of overdose (it's quite toxic).
+
+### SSRI
+
+**Selective serotonin reuptake inhibitors** (SSRIs).
+
+#### Mechanism
+
+They inhibit the reuptake of serotonin and lead to increased levels of serotonin in the synapse.
+
+#### Effects
+
+Few side effects (because the mechanism is simpler).
+
+Not as toxic as tricyclics.
+
+Serotonin syndrome (when the level of serotonin is too high).
+
+## MAO Inhibitors
+
+**Monoamine oxidase** is an enzyme that breaks down serotonin.
+
+#### Mechanism
+
+**Monoamine oxidase inhibitors** (MAO inhibitors) are agents that increases the availability of serotonin by inhibiting the action of MAO.Access
+
+#### Effects
+
+Have strong contraindications - cannot eat certain foods while using the medicine. Specifically, it is food with thiamine.
+
+Have side effects.

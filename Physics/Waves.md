@@ -204,4 +204,6 @@ A light wave undergoes $pi$ radians phase change when reflected from a material 
 A wave on a string undergoes $pi$ radians phase change and inverts (vertically) when reflected across a boundary.
 
 For a wave, its intensity is proportional to its amplitude squared. _i.e._ $$ I \propto A^2 $$.
+
+$$
 $$
